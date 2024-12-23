@@ -23,22 +23,18 @@ A Java-based program to calculate the interest on bank deposits and loans. This 
 ## Formulae Used
 
 ### Simple Interest (SI)
-\[ SI = \frac{P \times R \times T}{100} \]
+SI = P×R×T/100
 - **P**: Principal amount
 - **R**: Rate of interest (per annum)
 - **T**: Time (in years)
 
 ### Compound Interest (CI)
-\[ CI = P \times \left(1 + \frac{R}{100}\right)^T - P \]
+CI = p*(1+R/100)^T-P
 - **P**: Principal amount
 - **R**: Rate of interest (per annum)
 - **T**: Time (in years)
 
 ---
+## Output
+![image](https://github.com/user-attachments/assets/ae039ae9-155f-4019-9ac5-c35e7954f403)
 
-## Installation and Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/bank-interest-calculator.git
-   cd bank-interest-calculator
